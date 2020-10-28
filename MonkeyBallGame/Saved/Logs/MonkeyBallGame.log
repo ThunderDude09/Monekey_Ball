@@ -646,3 +646,87 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.28-15.55.20:406][  0]LogAssetRegistry: Asset discovery search completed in 4.0747 seconds
 [2020.10.28-15.55.20:410][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2020.10.28-15.55.20:412][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.28-15.57.16:107][409]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.28-15.57.21:923][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.28-15.58.20:712][659]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.28-15.58.20:777][659]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.10.28-15.58.20:777][659]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.10.28-15.58.20:843][659]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.28-15.58.26:759][305]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.10.28-15.58.39:500][732]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject" -game -rocket -progress
+[2020.10.28-15.58.40:010][732]Discovering modules, targets and source code for project...
+[2020.10.28-15.58.41:827][732]Binding IntelliSense data...
+[2020.10.28-15.58.44:470][732]Binding IntelliSense data... 100%
+[2020.10.28-15.58.44:470][732]Writing project files...
+[2020.10.28-15.58.50:431][732]Writing project files... 100%
+[2020.10.28-15.58.50:537][732]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.10.28-15.58.50:549][732]Candidate modules for hot reload:
+[2020.10.28-15.58.50:549][732]  MonkeyBallGame
+[2020.10.28-15.58.50:549][732]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBallGame,8246 MonkeyBallGameEditor Win64 Development -Project="C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject" "C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject"  -IgnoreJunk]
+[2020.10.28-15.59.03:510][732]CompilerResultsLog: New page: Compilation - Oct 28, 2020, 5:59:03 AM
+[2020.10.28-15.59.03:510][732]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball).
+[2020.10.28-15.59.03:510][732]CompilerResultsLog: Creating makefile for MonkeyBallGameEditor (no existing makefile)
+[2020.10.28-15.59.03:510][732]CompilerResultsLog: Parsing headers for MonkeyBallGameEditor
+[2020.10.28-15.59.03:510][732]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\MonkeyBallGame.uproject" "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\MonkeyBallGameEditor\Development\MonkeyBallGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Brayden\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.28-15.59.03:510][732]CompilerResultsLog: Reflection code generated for MonkeyBallGameEditor in 7.0498142 seconds
+[2020.10.28-15.59.03:510][732]CompilerResultsLog: Building MonkeyBallGameEditor...
+[2020.10.28-15.59.03:510][732]CompilerResultsLog: Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.28-15.59.03:510][732]CompilerResultsLog: Building 9 actions with 4 processes...
+[2020.10.28-15.59.03:510][732]CompilerResultsLog:   [1/9] MonkeyBallGame.cpp
+[2020.10.28-15.59.03:510][732]CompilerResultsLog:   [2/9] MonkeyBallGameGameModeBase.cpp
+[2020.10.28-15.59.03:510][732]CompilerResultsLog:   [3/9] BasePlayer.cpp
+[2020.10.28-15.59.03:510][732]CompilerResultsLog:   [4/9] BasePlayer.gen.cpp
+[2020.10.28-15.59.03:510][732]CompilerResultsLog:   [5/9] MonkeyBallGame.init.gen.cpp
+[2020.10.28-15.59.03:511][732]CompilerResultsLog:   [6/9] MonkeyBallGameGameModeBase.gen.cpp
+[2020.10.28-15.59.03:511][732]CompilerResultsLog:   [7/9] UE4Editor-MonkeyBallGame-8246.lib
+[2020.10.28-15.59.03:511][732]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-8246.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-8246.exp
+[2020.10.28-15.59.03:511][732]CompilerResultsLog:   [8/9] UE4Editor-MonkeyBallGame-8246.dll
+[2020.10.28-15.59.03:511][732]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-8246.suppressed.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-8246.suppressed.exp
+[2020.10.28-15.59.03:511][732]CompilerResultsLog:   [9/9] MonkeyBallGameEditor.target
+[2020.10.28-15.59.03:511][732]CompilerResultsLog: Total time in Parallel executor: 3.00 seconds
+[2020.10.28-15.59.03:511][732]CompilerResultsLog: Total execution time: 12.84 seconds
+[2020.10.28-15.59.03:511][732]LogMainFrame: MainFrame: Module compiling took 12.973 seconds
+[2020.10.28-15.59.03:535][732]LogClass: Could not find existing class BasePlayer in package /Script/MonkeyBallGame for HotReload, assuming new class
+[2020.10.28-15.59.03:537][732]LogContentBrowser: Native class hierarchy updated for 'MonkeyBallGame' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.10.28-15.59.03:538][732]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.28-15.59.03:590][732]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 3429 classes and 823 folders.
+[2020.10.28-15.59.03:590][732]Display: HotReload took 13.1s.
+[2020.10.28-15.59.03:590][732]Warning: HotReload operation took 13.1s.
+[2020.10.28-15.59.03:741][732]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.10.28-15.59.03:751][732]LogHotReload: New module detected: UE4Editor-MonkeyBallGame-8246.dll
+[2020.10.28-15.59.03:866][733]LogHotReload: Starting Hot-Reload from IDE
+[2020.10.28-15.59.04:114][733]LogContentBrowser: Native class hierarchy updated for 'MonkeyBallGame' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2020.10.28-15.59.04:115][733]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.28-15.59.04:134][733]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 3429 classes and 823 folders.
+[2020.10.28-15.59.04:141][733]Display: HotReload took  0.3s.
+[2020.10.28-16.06.01:141][473]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.28-16.06.01:147][473]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.28-16.07.28:526][949]Candidate modules for hot reload:
+[2020.10.28-16.07.28:526][949]  MonkeyBallGame
+[2020.10.28-16.07.28:526][949]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBallGame,4771 MonkeyBallGameEditor Win64 Development -Project="C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject" "C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject"  -IgnoreJunk]
+[2020.10.28-16.07.28:533][949]Warning: Starting HotReload took  0.1s.
+[2020.10.28-16.08.31:139][236]CompilerResultsLog: New page: Compilation - Oct 28, 2020, 6:08:31 AM
+[2020.10.28-16.08.31:139][236]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball).
+[2020.10.28-16.08.31:139][236]CompilerResultsLog: Parsing headers for MonkeyBallGameEditor
+[2020.10.28-16.08.31:139][236]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\MonkeyBallGame.uproject" "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\MonkeyBallGameEditor\Development\MonkeyBallGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Brayden\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.28-16.08.31:139][236]CompilerResultsLog: Reflection code generated for MonkeyBallGameEditor in 10.3542532 seconds
+[2020.10.28-16.08.31:139][236]CompilerResultsLog: Building MonkeyBallGameEditor...
+[2020.10.28-16.08.31:139][236]CompilerResultsLog: Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.28-16.08.31:139][236]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.10.28-16.08.31:139][236]CompilerResultsLog:   [1/6] MonkeyBallGame.init.gen.cpp
+[2020.10.28-16.08.31:139][236]CompilerResultsLog:   [2/6] BasePlayer.cpp
+[2020.10.28-16.08.31:139][236]CompilerResultsLog:   [3/6] BasePlayer.gen.cpp
+[2020.10.28-16.08.31:139][236]CompilerResultsLog:   [4/6] UE4Editor-MonkeyBallGame-4771.lib
+[2020.10.28-16.08.31:139][236]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-4771.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-4771.exp
+[2020.10.28-16.08.31:139][236]CompilerResultsLog:   [5/6] UE4Editor-MonkeyBallGame-4771.dll
+[2020.10.28-16.08.31:139][236]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-4771.suppressed.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-4771.suppressed.exp
+[2020.10.28-16.08.31:139][236]CompilerResultsLog:   [6/6] MonkeyBallGameEditor.target
+[2020.10.28-16.08.31:139][236]CompilerResultsLog: Total time in Parallel executor: 50.11 seconds
+[2020.10.28-16.08.31:139][236]CompilerResultsLog: Total execution time: 62.08 seconds
+[2020.10.28-16.08.31:139][236]LogMainFrame: MainFrame: Module compiling took 62.621 seconds
+[2020.10.28-16.08.31:180][236]LogClass: Could not find existing class BasePlayer in package /Script/MonkeyBallGame for HotReload, assuming new class
+[2020.10.28-16.08.31:183][236]LogHotReload: Re-instancing BasePlayer after hot-reload.
+[2020.10.28-16.08.31:195][236]LogContentBrowser: Native class hierarchy updated for 'MonkeyBallGame' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.10.28-16.08.31:196][236]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.28-16.08.31:244][236]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 3429 classes and 823 folders.
+[2020.10.28-16.08.31:244][236]Display: HotReload took 62.8s.

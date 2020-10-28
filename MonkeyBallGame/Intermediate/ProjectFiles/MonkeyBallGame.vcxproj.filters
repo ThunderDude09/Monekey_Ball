@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MonkeyBallGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5BE05D28-39C3-4F87-A431-B1524CA38FCD}</UniqueIdentifier>
+      <UniqueIdentifier>{AB7733CF-AC54-47C3-B02B-7FC1B7AA0869}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MonkeyBallGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{C1E2451A-3803-4E67-BE76-BB00A6F108CB}</UniqueIdentifier>
+      <UniqueIdentifier>{2B022F56-5A4D-4AAF-8DFB-FFECD4D6AEF8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MonkeyBallGame">
-      <UniqueIdentifier>{61123221-6AE2-449F-A085-0996DBDFE44D}</UniqueIdentifier>
+      <UniqueIdentifier>{7A7DDC5C-78B4-4928-A8D9-64C7A28B6107}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\MonkeyBallGame\BasePlayer.cpp">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonkeyBallGame\BasePlayer.h">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </ClInclude>
     <None Include="..\..\Source\MonkeyBallGame\MonkeyBallGame.Build.cs">
       <Filter>Source\MonkeyBallGame</Filter>
     </None>
