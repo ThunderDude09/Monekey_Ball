@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MonkeyBallGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2C31E0D2-725D-4B9E-BD54-EB8DB9A04153}</UniqueIdentifier>
+      <UniqueIdentifier>{CB819BFD-C638-459F-8A52-14028AD2FDEE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MonkeyBallGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{611732E2-0E5D-4625-8E1D-C670A790416E}</UniqueIdentifier>
+      <UniqueIdentifier>{3B8D0DA8-84C7-4443-94C8-9FE599E8D9E0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MonkeyBallGame">
-      <UniqueIdentifier>{72D81598-DEC0-476E-95D0-1A9BFFDD50E6}</UniqueIdentifier>
+      <UniqueIdentifier>{D1CD53E4-BC01-4A43-BA54-185EC22F1492}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\MonkeyBallGame\BasePlayer.cpp">
       <Filter>Source\MonkeyBallGame</Filter>
@@ -39,6 +39,12 @@
       <Filter>Source\MonkeyBallGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\MonkeyBallGame\Item.h">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonkeyBallGame\KillZone.cpp">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonkeyBallGame\KillZone.h">
       <Filter>Source\MonkeyBallGame</Filter>
     </ClInclude>
     <None Include="..\..\Source\MonkeyBallGame\MonkeyBallGame.Build.cs">
@@ -60,6 +66,12 @@
       <Filter>Source\MonkeyBallGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\MonkeyBallGame\PlayerBall.h">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonkeyBallGame\WinZone.cpp">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonkeyBallGame\WinZone.h">
       <Filter>Source\MonkeyBallGame</Filter>
     </ClInclude>
   </ItemGroup>

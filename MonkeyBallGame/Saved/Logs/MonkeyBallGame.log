@@ -1962,3 +1962,1133 @@ Scale3D: 1.000000 1.000000 1.000000
 [2020.10.28-16.35.07:632][ 58]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.28-16.35.07:632][ 58]LogContentValidation: Display: Validating World /Game/MyGame.MyGame
 [2020.10.28-16.35.07:632][ 58]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyGame_BuiltData.MyGame_BuiltData
+[2020.10.28-17.16.33:459][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-17.16.44:051][931]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.10.28-17.17.16:113][585]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.28-17.17.26:256][749]Cmd: TRANSACTION UNDO
+[2020.10.28-17.17.26:256][749]LogEditorTransaction: Undo Select Brush Surface
+[2020.10.28-17.17.34:975][682]Cmd: TRANSACTION UNDO
+[2020.10.28-17.17.34:975][682]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.28-17.17.55:757][ 55]LogSlate: Window 'Select Path' being destroyed
+[2020.10.28-17.17.55:816][ 55]LogStaticMesh: Building static mesh Broad...
+[2020.10.28-17.17.55:851][ 55]LogStaticMesh: Built static mesh [0.03s] /Game/Broad.Broad
+[2020.10.28-17.17.55:855][ 55]LogActorFactory: Actor Factory created Broad
+[2020.10.28-17.17.55:881][ 55]LogEditor: Error: Actor 'Brush /Game/MyGame.MyGame:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2020.10.28-17.17.55:881][ 55]EditorErrors: New page: Actor Reattachment
+[2020.10.28-17.17.55:928][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.10.28-17.18.09:929][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.10.28-17.18.09:961][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.18.09:990][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.28-17.18.10:022][679]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/MyGameD0858406444203AD2EB4D2B359AD8562.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap'
+[2020.10.28-17.18.10:051][679]LogFileHelpers: Saving map 'MyGame' took 0.090
+[2020.10.28-17.18.10:051][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame_BuiltData" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame_BuiltData.uasset" SILENT=true
+[2020.10.28-17.18.10:077][679]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/MyGame_BuiltDataC64AD34445FDE63AF9E3E0A6E4F80CA8.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame_BuiltData.uasset'
+[2020.10.28-17.18.10:094][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Broad" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/Broad.uasset" SILENT=true
+[2020.10.28-17.18.10:108][679]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/Broad8FDF302C486AB39E2885A5A875018375.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/Broad.uasset'
+[2020.10.28-17.18.10:135][679]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.18.10:135][679]LogContentValidation: Display: Validating World /Game/MyGame.MyGame
+[2020.10.28-17.18.10:135][679]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyGame_BuiltData.MyGame_BuiltData
+[2020.10.28-17.18.10:135][679]LogContentValidation: Display: Validating StaticMesh /Game/Broad.Broad
+[2020.10.28-17.18.12:562][855]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BpBasePlayer.BpBasePlayer
+[2020.10.28-17.18.23:812][582]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.28-17.18.26:064][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Broad)
+[2020.10.28-17.18.27:087][806]Cmd: DELETE
+[2020.10.28-17.18.27:087][806]Cmd: ACTOR DELETE
+[2020.10.28-17.18.27:119][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.28-17.18.27:152][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.10.28-17.18.27:155][806]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.10.28-17.18.29:264][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.28-17.18.29:295][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.18.29:325][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.28-17.18.29:349][991]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/MyGame9CD384044B49EB49D48D89B33FF0AFD8.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap'
+[2020.10.28-17.18.29:373][991]LogFileHelpers: Saving map 'MyGame' took 0.078
+[2020.10.28-17.18.29:373][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame_BuiltData" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame_BuiltData.uasset" SILENT=true
+[2020.10.28-17.18.29:386][991]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/MyGame_BuiltDataC08824824A3E868CD8585CB233ABAF50.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame_BuiltData.uasset'
+[2020.10.28-17.18.29:402][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BpBasePlayer" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/BpBasePlayer.uasset" SILENT=true
+[2020.10.28-17.18.29:427][991]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/BpBasePlayerA8EC97124AB2B30D76E0B08F198269C5.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/BpBasePlayer.uasset'
+[2020.10.28-17.18.29:453][991]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.18.29:453][991]LogContentValidation: Display: Validating World /Game/MyGame.MyGame
+[2020.10.28-17.18.29:453][991]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyGame_BuiltData.MyGame_BuiltData
+[2020.10.28-17.18.29:453][991]LogContentValidation: Display: Validating Blueprint /Game/BpBasePlayer.BpBasePlayer
+[2020.10.28-17.18.31:758][216]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.18.31:772][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.18.31:772][216]PIE: New page: PIE session: MyGame (Oct 28, 2020, 7:18:31 AM)
+[2020.10.28-17.18.31:772][216]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2020.10.28-17.18.31:776][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003814s)
+[2020.10.28-17.18.31:777][216]LogAIModule: Creating AISystem for world MyGame
+[2020.10.28-17.18.31:777][216]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D0D56EC00), frame # 124216
+[2020.10.28-17.18.31:777][216]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027CD2F8AD40), frame # 124216
+[2020.10.28-17.18.31:778][216]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2020.10.28-17.18.31:778][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.005485s)
+[2020.10.28-17.18.31:809][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.10.28-17.18.31:810][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.18.31:810][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.18.31:810][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.18.31:810][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.18.31:810][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.18.31:810][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.18.31:810][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.18.31:810][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.18.31:811][216]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.18.31:811][216]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.18.31:816][216]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.18.31:816][216]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.18.31:855][216]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.10.28-17.18.31:855][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.18.31:855][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.18.31:855][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.18.31:856][216]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.18.31:869][216]LogInit: FAudioDevice initialized.
+[2020.10.28-17.18.31:880][216]LogLoad: Game class is 'BpGameModeTest_C'
+[2020.10.28-17.18.31:881][216]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2020.10.28-12.18.31
+[2020.10.28-17.18.31:882][216]LogWorld: Bringing up level for play took: 0.001003
+[2020.10.28-17.18.31:882][216]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.10.28-17.18.31:885][216]PIE: Server logged in
+[2020.10.28-17.18.31:886][216]PIE: Play in editor total start time 0.116 seconds.
+[2020.10.28-17.18.33:403][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.18.33:403][390]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyGame
+[2020.10.28-17.18.33:403][390]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.18.33:403][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.18.33:411][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.18.33:416][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.18.33:462][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.18.33:463][390]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027CD2F8AD40), frame # 124390
+[2020.10.28-17.18.33:464][390]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D0D56EC00), frame # 124390
+[2020.10.28-17.18.33:467][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.10.28-17.18.33:496][391]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.10.28-17.18.36:694][666]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Broad.Broad
+[2020.10.28-17.18.37:401][666]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.18.37:401][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.18.44:846][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Broad" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/Broad.uasset" SILENT=true
+[2020.10.28-17.18.44:865][239]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/Broad3F17E657473D0A04E668668D8332CEAC.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/Broad.uasset'
+[2020.10.28-17.18.44:886][239]AssetCheck: New page: Asset Save: Broad
+[2020.10.28-17.18.44:886][239]LogContentValidation: Display: Validating StaticMesh /Game/Broad.Broad
+[2020.10.28-17.18.49:076][668]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.18.49:093][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.18.49:093][668]PIE: New page: PIE session: MyGame (Oct 28, 2020, 7:18:49 AM)
+[2020.10.28-17.18.49:130][668]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2020.10.28-17.18.49:133][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002782s)
+[2020.10.28-17.18.49:134][668]LogAIModule: Creating AISystem for world MyGame
+[2020.10.28-17.18.49:134][668]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D07358600), frame # 125668
+[2020.10.28-17.18.49:134][668]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D07346200), frame # 125668
+[2020.10.28-17.18.49:135][668]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2020.10.28-17.18.49:135][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.004600s)
+[2020.10.28-17.18.49:223][668]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.10.28-17.18.49:226][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.18.49:226][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.18.49:226][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.18.49:226][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.18.49:227][668]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.18.49:227][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.18.49:227][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.18.49:227][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.18.49:227][668]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.18.49:227][668]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.18.49:230][668]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.18.49:230][668]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.18.49:264][668]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.10.28-17.18.49:264][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.18.49:264][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.18.49:264][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.18.49:265][668]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.18.49:277][668]LogInit: FAudioDevice initialized.
+[2020.10.28-17.18.49:283][668]LogLoad: Game class is 'BpGameModeTest_C'
+[2020.10.28-17.18.49:284][668]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2020.10.28-12.18.49
+[2020.10.28-17.18.49:285][668]LogWorld: Bringing up level for play took: 0.000796
+[2020.10.28-17.18.49:285][668]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.10.28-17.18.49:287][668]PIE: Server logged in
+[2020.10.28-17.18.49:288][668]PIE: Play in editor total start time 0.198 seconds.
+[2020.10.28-17.18.55:062][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.18.55:062][352]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyGame
+[2020.10.28-17.18.55:063][352]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.18.55:063][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.18.55:074][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.18.55:079][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.18.55:132][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.18.55:134][352]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D07346200), frame # 126352
+[2020.10.28-17.18.55:134][352]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D07358600), frame # 126352
+[2020.10.28-17.18.55:144][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.10.28-17.18.55:176][353]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.10.28-17.18.59:028][767]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.10.28-17.19.08:489][618]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.19.08:504][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.19.08:504][618]PIE: New page: PIE session: MyGame (Oct 28, 2020, 7:19:08 AM)
+[2020.10.28-17.19.08:551][618]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2020.10.28-17.19.08:554][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002733s)
+[2020.10.28-17.19.08:556][618]LogAIModule: Creating AISystem for world MyGame
+[2020.10.28-17.19.08:556][618]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027CD7A7C600), frame # 127618
+[2020.10.28-17.19.08:556][618]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027CD84D0680), frame # 127618
+[2020.10.28-17.19.08:556][618]LogPlayLevel: PIE: World Init took: (0.002497s)
+[2020.10.28-17.19.08:556][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.005386s)
+[2020.10.28-17.19.08:595][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.10.28-17.19.08:599][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.19.08:599][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.19.08:599][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.19.08:599][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.19.08:600][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.19.08:600][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.19.08:600][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.19.08:600][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.19.08:600][618]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.19.08:600][618]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.19.08:605][618]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.19.08:605][618]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.19.08:639][618]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.10.28-17.19.08:639][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.19.08:640][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.19.08:640][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.19.08:640][618]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.19.08:651][618]LogInit: FAudioDevice initialized.
+[2020.10.28-17.19.08:660][618]LogLoad: Game class is 'BpGameModeTest_C'
+[2020.10.28-17.19.08:661][618]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2020.10.28-12.19.08
+[2020.10.28-17.19.08:661][618]LogWorld: Bringing up level for play took: 0.000939
+[2020.10.28-17.19.08:661][618]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.10.28-17.19.08:664][618]PIE: Server logged in
+[2020.10.28-17.19.08:665][618]PIE: Play in editor total start time 0.163 seconds.
+[2020.10.28-17.19.16:953][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.19.16:953][603]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyGame
+[2020.10.28-17.19.16:954][603]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.19.16:954][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.19.16:965][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.19.16:971][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.19.17:006][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.19.17:024][603]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027CD84D0680), frame # 128603
+[2020.10.28-17.19.17:025][603]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027CD7A7C600), frame # 128603
+[2020.10.28-17.19.17:028][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.10.28-17.19.17:071][604]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.10.28-17.19.26:098][353]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.10.28-17.19.26:098][353]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.10.28-17.19.31:338][893]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.10.28-17.19.40:062][839]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject" -game -rocket -progress
+[2020.10.28-17.19.40:879][839]Discovering modules, targets and source code for project...
+[2020.10.28-17.19.42:693][839]Binding IntelliSense data...
+[2020.10.28-17.19.45:922][839]Binding IntelliSense data... 100%
+[2020.10.28-17.19.45:922][839]Writing project files...
+[2020.10.28-17.19.51:567][839]Writing project files... 100%
+[2020.10.28-17.19.51:696][839]Candidate modules for hot reload:
+[2020.10.28-17.19.51:697][839]  MonkeyBallGame
+[2020.10.28-17.19.51:697][839]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBallGame,5433 MonkeyBallGameEditor Win64 Development -Project="C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject" "C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject"  -IgnoreJunk]
+[2020.10.28-17.20.30:421][839]CompilerResultsLog: New page: Compilation - Oct 28, 2020, 7:20:30 AM
+[2020.10.28-17.20.30:421][839]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball).
+[2020.10.28-17.20.30:421][839]CompilerResultsLog: Creating makefile for MonkeyBallGameEditor (no existing makefile)
+[2020.10.28-17.20.30:421][839]CompilerResultsLog: Parsing headers for MonkeyBallGameEditor
+[2020.10.28-17.20.30:421][839]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\MonkeyBallGame.uproject" "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\MonkeyBallGameEditor\Development\MonkeyBallGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Brayden\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.28-17.20.30:421][839]CompilerResultsLog: Reflection code generated for MonkeyBallGameEditor in 8.0429872 seconds
+[2020.10.28-17.20.30:421][839]CompilerResultsLog: Building MonkeyBallGameEditor...
+[2020.10.28-17.20.30:421][839]CompilerResultsLog: Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.28-17.20.30:421][839]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.10.28-17.20.30:421][839]CompilerResultsLog:   [1/6] MonkeyBallGame.init.gen.cpp
+[2020.10.28-17.20.30:421][839]CompilerResultsLog:   [2/6] KillZone.cpp
+[2020.10.28-17.20.30:421][839]CompilerResultsLog:   [3/6] KillZone.gen.cpp
+[2020.10.28-17.20.30:421][839]CompilerResultsLog:   [4/6] UE4Editor-MonkeyBallGame-5433.lib
+[2020.10.28-17.20.30:421][839]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-5433.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-5433.exp
+[2020.10.28-17.20.30:421][839]CompilerResultsLog:   [5/6] UE4Editor-MonkeyBallGame-5433.dll
+[2020.10.28-17.20.30:421][839]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-5433.suppressed.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-5433.suppressed.exp
+[2020.10.28-17.20.30:421][839]CompilerResultsLog:   [6/6] MonkeyBallGameEditor.target
+[2020.10.28-17.20.30:421][839]CompilerResultsLog: Total time in Parallel executor: 27.95 seconds
+[2020.10.28-17.20.30:421][839]CompilerResultsLog: Total execution time: 38.60 seconds
+[2020.10.28-17.20.30:421][839]LogMainFrame: MainFrame: Module compiling took 38.732 seconds
+[2020.10.28-17.20.30:455][839]LogClass: Could not find existing class KillZone in package /Script/MonkeyBallGame for HotReload, assuming new class
+[2020.10.28-17.20.30:470][839]LogContentBrowser: Native class hierarchy updated for 'MonkeyBallGame' in 0.0008 seconds. Added 5 classes and 2 folders.
+[2020.10.28-17.20.30:475][839]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.10.28-17.20.30:639][839]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 3432 classes and 823 folders.
+[2020.10.28-17.20.30:639][839]Display: HotReload took 39.0s.
+[2020.10.28-17.20.30:649][839]Warning: HotReload operation took 39.0s.
+[2020.10.28-17.20.31:125][839]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.10.28-17.20.31:518][839]LogHotReload: New module detected: UE4Editor-MonkeyBallGame-5433.dll
+[2020.10.28-17.20.31:587][840]LogHotReload: Starting Hot-Reload from IDE
+[2020.10.28-17.20.31:623][840]LogContentBrowser: Native class hierarchy updated for 'MonkeyBallGame' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2020.10.28-17.20.31:629][840]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.28-17.20.31:652][840]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 3432 classes and 823 folders.
+[2020.10.28-17.20.31:659][840]Display: HotReload took  0.1s.
+[2020.10.28-17.22.36:484][204]Candidate modules for hot reload:
+[2020.10.28-17.22.36:484][204]  MonkeyBallGame
+[2020.10.28-17.22.36:484][204]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBallGame,5639 MonkeyBallGameEditor Win64 Development -Project="C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject" "C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject"  -IgnoreJunk]
+[2020.10.28-17.22.36:495][204]Warning: Starting HotReload took  0.1s.
+[2020.10.28-17.22.51:946][737]LogActorFactory: Actor Factory created Cube
+[2020.10.28-17.22.52:987][840]LogActorFactory: Actor Factory created Cube
+[2020.10.28-17.23.35:650][333]CompilerResultsLog: New page: Compilation - Oct 28, 2020, 7:23:35 AM
+[2020.10.28-17.23.35:650][333]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball).
+[2020.10.28-17.23.35:650][333]CompilerResultsLog: Parsing headers for MonkeyBallGameEditor
+[2020.10.28-17.23.35:650][333]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\MonkeyBallGame.uproject" "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\MonkeyBallGameEditor\Development\MonkeyBallGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Brayden\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.28-17.23.35:650][333]CompilerResultsLog: Reflection code generated for MonkeyBallGameEditor in 10.4629732 seconds
+[2020.10.28-17.23.35:650][333]CompilerResultsLog: Building MonkeyBallGameEditor...
+[2020.10.28-17.23.35:650][333]CompilerResultsLog: Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.28-17.23.35:650][333]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.10.28-17.23.35:650][333]CompilerResultsLog:   [1/6] MonkeyBallGame.init.gen.cpp
+[2020.10.28-17.23.35:650][333]CompilerResultsLog:   [2/6] KillZone.cpp
+[2020.10.28-17.23.35:650][333]CompilerResultsLog:   [3/6] KillZone.gen.cpp
+[2020.10.28-17.23.35:650][333]CompilerResultsLog:   [4/6] UE4Editor-MonkeyBallGame-5639.lib
+[2020.10.28-17.23.35:650][333]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-5639.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-5639.exp
+[2020.10.28-17.23.35:650][333]CompilerResultsLog:   [5/6] UE4Editor-MonkeyBallGame-5639.dll
+[2020.10.28-17.23.35:650][333]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-5639.suppressed.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-5639.suppressed.exp
+[2020.10.28-17.23.35:650][333]CompilerResultsLog:   [6/6] MonkeyBallGameEditor.target
+[2020.10.28-17.23.35:650][333]CompilerResultsLog: Total time in Parallel executor: 46.42 seconds
+[2020.10.28-17.23.35:650][333]CompilerResultsLog: Total execution time: 58.42 seconds
+[2020.10.28-17.23.35:650][333]LogMainFrame: MainFrame: Module compiling took 59.174 seconds
+[2020.10.28-17.23.35:729][333]LogClass: Could not find existing class KillZone in package /Script/MonkeyBallGame for HotReload, assuming new class
+[2020.10.28-17.23.35:729][333]LogClass: Function OnOverlapBegin is new.
+[2020.10.28-17.23.35:756][333]LogHotReload: Re-instancing KillZone after hot-reload.
+[2020.10.28-17.23.35:813][333]LogContentBrowser: Native class hierarchy updated for 'MonkeyBallGame' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2020.10.28-17.23.35:820][333]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.10.28-17.23.36:012][333]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 3432 classes and 823 folders.
+[2020.10.28-17.23.36:012][333]Display: HotReload took 59.6s.
+[2020.10.28-17.24.16:065][172]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.24.16:092][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.24.16:092][172]PIE: New page: PIE session: MyGame (Oct 28, 2020, 7:24:16 AM)
+[2020.10.28-17.24.16:129][172]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2020.10.28-17.24.16:133][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003159s)
+[2020.10.28-17.24.16:135][172]LogAIModule: Creating AISystem for world MyGame
+[2020.10.28-17.24.16:135][172]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D69927600), frame # 140172
+[2020.10.28-17.24.16:135][172]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D69AEB380), frame # 140172
+[2020.10.28-17.24.16:135][172]LogPlayLevel: PIE: World Init took: (0.002133s)
+[2020.10.28-17.24.16:135][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.005517s)
+[2020.10.28-17.24.16:343][172]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2020.10.28-17.24.16:347][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.24.16:347][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.24.16:347][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.24.16:347][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.24.16:347][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.24.16:347][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.24.16:347][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.24.16:347][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.24.16:347][172]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.24.16:347][172]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.24.16:352][172]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.24.16:352][172]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.24.16:386][172]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.10.28-17.24.16:387][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.24.16:387][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.24.16:387][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.24.16:387][172]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.24.16:401][172]LogInit: FAudioDevice initialized.
+[2020.10.28-17.24.16:410][172]LogLoad: Game class is 'BpGameModeTest_C'
+[2020.10.28-17.24.16:412][172]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2020.10.28-12.24.16
+[2020.10.28-17.24.16:412][172]LogWorld: Bringing up level for play took: 0.000778
+[2020.10.28-17.24.16:412][172]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.10.28-17.24.16:417][172]PIE: Server logged in
+[2020.10.28-17.24.16:418][172]PIE: Play in editor total start time 0.336 seconds.
+[2020.10.28-17.24.17:752][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.24.17:752][317]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyGame
+[2020.10.28-17.24.17:752][317]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.24.17:753][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.24.17:763][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.24.17:769][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.24.17:839][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.24.17:878][317]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D69927600), frame # 140317
+[2020.10.28-17.24.17:878][317]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D69AEB380), frame # 140317
+[2020.10.28-17.24.17:899][317]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.10.28-17.24.17:927][318]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.10.28-17.24.19:150][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.28-17.24.21:831][710]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.24.21:846][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.24.21:846][710]PIE: New page: PIE session: MyGame (Oct 28, 2020, 7:24:21 AM)
+[2020.10.28-17.24.21:846][710]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2020.10.28-17.24.21:849][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003071s)
+[2020.10.28-17.24.21:851][710]LogAIModule: Creating AISystem for world MyGame
+[2020.10.28-17.24.21:851][710]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D4B037600), frame # 140710
+[2020.10.28-17.24.21:851][710]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027CDA614680), frame # 140710
+[2020.10.28-17.24.21:851][710]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2020.10.28-17.24.21:851][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.004840s)
+[2020.10.28-17.24.21:889][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.10.28-17.24.21:892][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.24.21:892][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.24.21:892][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.24.21:892][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.24.21:892][710]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.24.21:893][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.24.21:893][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.24.21:893][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.24.21:893][710]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.24.21:893][710]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.24.21:897][710]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.24.21:897][710]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.24.21:933][710]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.10.28-17.24.21:933][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.24.21:933][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.24.21:933][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.24.21:934][710]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.24.21:945][710]LogInit: FAudioDevice initialized.
+[2020.10.28-17.24.21:956][710]LogLoad: Game class is 'BpGameModeTest_C'
+[2020.10.28-17.24.21:957][710]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2020.10.28-12.24.21
+[2020.10.28-17.24.21:957][710]LogWorld: Bringing up level for play took: 0.000870
+[2020.10.28-17.24.21:957][710]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.10.28-17.24.21:960][710]PIE: Server logged in
+[2020.10.28-17.24.21:961][710]PIE: Play in editor total start time 0.118 seconds.
+[2020.10.28-17.24.28:712][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.24.28:712][503]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyGame
+[2020.10.28-17.24.28:713][503]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.24.28:713][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.24.28:719][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.24.28:724][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.24.28:779][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.24.28:779][503]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027CDA614680), frame # 141503
+[2020.10.28-17.24.28:779][503]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D4B037600), frame # 141503
+[2020.10.28-17.24.28:783][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.10.28-17.24.28:818][504]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.10.28-17.24.29:774][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.28-17.24.39:669][697]Cmd: TRANSACTION UNDO
+[2020.10.28-17.24.39:669][697]LogEditorTransaction: Undo Move Actors
+[2020.10.28-17.25.04:699][598]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.10.28-17.25.11:994][598]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.28-17.25.22:104][169]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BpKillZone.BpKillZone
+[2020.10.28-17.25.40:601][455]LogEditorTransaction: Undo Edit Linear Damping
+[2020.10.28-17.26.04:537][366]BlueprintLog: New page: Compile BpKillZone
+[2020.10.28-17.26.04:630][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.10.28-17.26.05:245][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BpKillZone" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/BpKillZone.uasset" SILENT=true
+[2020.10.28-17.26.05:268][408]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/BpKillZone0704BFE140859C93D557DAA75C47908C.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/BpKillZone.uasset'
+[2020.10.28-17.26.05:288][408]AssetCheck: New page: Asset Save: BpKillZone
+[2020.10.28-17.26.05:288][408]LogContentValidation: Display: Validating Blueprint /Game/BpKillZone.BpKillZone
+[2020.10.28-17.26.35:237][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.10.28-17.26.35:268][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.26.35:307][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.10.28-17.26.35:344][316]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/MyGame78E5306141A2F69F1DFCBC91D87FFB82.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap'
+[2020.10.28-17.26.35:345][316]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap', retrying in .5s...
+[2020.10.28-17.26.35:846][316]LogFileManager: Warning: DeleteFile recovered during retry!
+[2020.10.28-17.26.35:873][316]LogFileHelpers: Saving map 'MyGame' took 0.606
+[2020.10.28-17.26.35:874][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame_BuiltData" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame_BuiltData.uasset" SILENT=true
+[2020.10.28-17.26.35:927][316]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/MyGame_BuiltData3F1A4B584AF7B6F9052F5592E42E0B96.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame_BuiltData.uasset'
+[2020.10.28-17.26.35:983][316]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.26.35:983][316]LogContentValidation: Display: Validating World /Game/MyGame.MyGame
+[2020.10.28-17.26.35:983][316]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyGame_BuiltData.MyGame_BuiltData
+[2020.10.28-17.26.36:458][351]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.26.36:474][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.26.36:474][351]PIE: New page: PIE session: MyGame (Oct 28, 2020, 7:26:36 AM)
+[2020.10.28-17.26.36:474][351]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2020.10.28-17.26.36:477][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002830s)
+[2020.10.28-17.26.36:478][351]LogAIModule: Creating AISystem for world MyGame
+[2020.10.28-17.26.36:479][351]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D64D45A00), frame # 150351
+[2020.10.28-17.26.36:479][351]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D6807C2C0), frame # 150351
+[2020.10.28-17.26.36:479][351]LogPlayLevel: PIE: World Init took: (0.001986s)
+[2020.10.28-17.26.36:479][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.004942s)
+[2020.10.28-17.26.36:520][351]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.10.28-17.26.36:521][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.26.36:521][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.26.36:521][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.26.36:521][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.26.36:521][351]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.26.36:521][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.26.36:521][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.26.36:521][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.26.36:521][351]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.26.36:521][351]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.26.36:526][351]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.26.36:526][351]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.26.36:575][351]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.10.28-17.26.36:575][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.26.36:576][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.26.36:576][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.26.36:576][351]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.26.36:583][351]LogInit: FAudioDevice initialized.
+[2020.10.28-17.26.36:594][351]LogLoad: Game class is 'BpGameModeTest_C'
+[2020.10.28-17.26.36:595][351]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2020.10.28-12.26.36
+[2020.10.28-17.26.36:596][351]LogWorld: Bringing up level for play took: 0.000839
+[2020.10.28-17.26.36:596][351]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.10.28-17.26.36:605][351]PIE: Server logged in
+[2020.10.28-17.26.36:606][351]PIE: Play in editor total start time 0.135 seconds.
+[2020.10.28-17.26.40:723][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.26.40:723][832]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyGame
+[2020.10.28-17.26.40:723][832]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.26.40:723][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.26.40:732][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.26.40:738][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.26.40:775][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.26.40:794][832]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D6807C2C0), frame # 150832
+[2020.10.28-17.26.40:795][832]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D64D45A00), frame # 150832
+[2020.10.28-17.26.40:799][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.10.28-17.26.40:834][833]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.10.28-17.26.45:586][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.28-17.26.54:624][ 36]Cmd: TRANSACTION UNDO
+[2020.10.28-17.26.54:624][ 36]LogEditorTransaction: Undo Set Scale
+[2020.10.28-17.27.09:408][255]Cmd: EDIT COPY
+[2020.10.28-17.27.09:861][300]Cmd: EDIT PASTE
+[2020.10.28-17.27.18:007][163]Cmd: TRANSACTION UNDO
+[2020.10.28-17.27.18:007][163]LogEditorTransaction: Undo Rotate Actors
+[2020.10.28-17.28.02:673][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.28-17.28.05:177][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.28-17.28.06:020][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.28-17.28.10:461][622]Cmd: EDIT COPY
+[2020.10.28-17.28.10:803][660]Cmd: EDIT PASTE
+[2020.10.28-17.28.20:481][713]Cmd: EDIT COPY
+[2020.10.28-17.28.21:011][770]Cmd: EDIT PASTE
+[2020.10.28-17.28.37:871][583]Cmd: EDIT COPY
+[2020.10.28-17.28.38:287][625]Cmd: EDIT PASTE
+[2020.10.28-17.28.55:891][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.10.28-17.28.57:395][609]Cmd: EDIT COPY
+[2020.10.28-17.28.57:781][648]Cmd: EDIT PASTE
+[2020.10.28-17.29.15:394][444]Cmd: EDIT PASTE
+[2020.10.28-17.29.19:250][829]Cmd: TRANSACTION UNDO
+[2020.10.28-17.29.19:250][829]LogEditorTransaction: Undo Paste
+[2020.10.28-17.29.21:380][ 12]Cmd: EDIT COPY
+[2020.10.28-17.29.21:901][ 68]Cmd: EDIT PASTE
+[2020.10.28-17.29.40:802][ 41]Cmd: EDIT PASTE
+[2020.10.28-17.29.48:796][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.10.28-17.29.58:211][456]Cmd: TRANSACTION UNDO
+[2020.10.28-17.29.58:211][456]LogEditorTransaction: Undo Set Scale
+[2020.10.28-17.30.04:173][877]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.28-17.30.04:596][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.10.28-17.30.14:766][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.28-17.30.16:421][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.10.28-17.30.17:398][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.28-17.30.22:923][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.10.28-17.30.23:981][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.28-17.30.32:614][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.10.28-17.30.33:545][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.28-17.30.41:305][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.10.28-17.30.42:283][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.28-17.30.53:783][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.10.28-17.30.53:811][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.30.53:851][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.28-17.30.53:878][168]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/MyGameFDA4B4524E068805E96C38B6E3DEE5ED.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap'
+[2020.10.28-17.30.53:904][168]LogFileHelpers: Saving map 'MyGame' took 0.093
+[2020.10.28-17.30.53:904][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame_BuiltData" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame_BuiltData.uasset" SILENT=true
+[2020.10.28-17.30.53:918][168]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/MyGame_BuiltData91E8BA684636704A2AEB1C9D841F3448.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame_BuiltData.uasset'
+[2020.10.28-17.30.53:944][168]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.30.53:944][168]LogContentValidation: Display: Validating World /Game/MyGame.MyGame
+[2020.10.28-17.30.53:944][168]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyGame_BuiltData.MyGame_BuiltData
+[2020.10.28-17.30.57:916][565]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.30.57:930][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.30.57:931][565]PIE: New page: PIE session: MyGame (Oct 28, 2020, 7:30:57 AM)
+[2020.10.28-17.30.57:931][565]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2020.10.28-17.30.57:934][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003371s)
+[2020.10.28-17.30.57:935][565]LogAIModule: Creating AISystem for world MyGame
+[2020.10.28-17.30.57:935][565]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D7839B600), frame # 175565
+[2020.10.28-17.30.57:935][565]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D368FC540), frame # 175565
+[2020.10.28-17.30.57:936][565]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2020.10.28-17.30.57:936][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.004929s)
+[2020.10.28-17.30.57:977][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.10.28-17.30.57:980][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.30.57:980][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.30.57:980][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.30.57:980][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.30.57:980][565]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.30.57:980][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.30.57:980][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.30.57:980][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.30.57:981][565]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.30.57:981][565]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.30.57:986][565]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.30.57:986][565]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.30.58:024][565]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.10.28-17.30.58:025][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.30.58:025][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.30.58:025][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.30.58:025][565]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.30.58:036][565]LogInit: FAudioDevice initialized.
+[2020.10.28-17.30.58:043][565]LogLoad: Game class is 'BpGameModeTest_C'
+[2020.10.28-17.30.58:044][565]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2020.10.28-12.30.58
+[2020.10.28-17.30.58:044][565]LogWorld: Bringing up level for play took: 0.001071
+[2020.10.28-17.30.58:044][565]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.10.28-17.30.58:047][565]PIE: Server logged in
+[2020.10.28-17.30.58:048][565]PIE: Play in editor total start time 0.12 seconds.
+[2020.10.28-17.31.02:692][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.31.02:692][102]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyGame
+[2020.10.28-17.31.02:692][102]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.31.02:693][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.31.02:703][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.31.02:710][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.31.02:746][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.31.02:765][102]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D368FC540), frame # 176102
+[2020.10.28-17.31.02:765][102]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D7839B600), frame # 176102
+[2020.10.28-17.31.02:769][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.10.28-17.31.02:806][103]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.10.28-17.31.10:511][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.10.28-17.31.14:586][ 35]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.10.28-17.31.14:586][ 35]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.10.28-17.31.17:728][317]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.10.28-17.31.25:335][ 25]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject" -game -rocket -progress
+[2020.10.28-17.31.26:047][ 25]Discovering modules, targets and source code for project...
+[2020.10.28-17.31.27:964][ 25]Binding IntelliSense data...
+[2020.10.28-17.31.31:506][ 25]Binding IntelliSense data... 100%
+[2020.10.28-17.31.31:506][ 25]Writing project files...
+[2020.10.28-17.31.38:564][ 25]Writing project files... 100%
+[2020.10.28-17.31.38:695][ 25]Candidate modules for hot reload:
+[2020.10.28-17.31.38:695][ 25]  MonkeyBallGame
+[2020.10.28-17.31.38:695][ 25]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBallGame,2017 MonkeyBallGameEditor Win64 Development -Project="C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject" "C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject"  -IgnoreJunk]
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog: New page: Compilation - Oct 28, 2020, 7:31:53 AM
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball).
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog: Creating makefile for MonkeyBallGameEditor (no existing makefile)
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog: Parsing headers for MonkeyBallGameEditor
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\MonkeyBallGame.uproject" "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\MonkeyBallGameEditor\Development\MonkeyBallGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Brayden\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog: Reflection code generated for MonkeyBallGameEditor in 9.8717767 seconds
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog: Building MonkeyBallGameEditor...
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog: Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog:   [1/6] MonkeyBallGame.init.gen.cpp
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog:   [2/6] WinZone.cpp
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog:   [3/6] WinZone.gen.cpp
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog:   [4/6] UE4Editor-MonkeyBallGame-2017.lib
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-2017.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-2017.exp
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog:   [5/6] UE4Editor-MonkeyBallGame-2017.dll
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-2017.suppressed.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-2017.suppressed.exp
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog:   [6/6] MonkeyBallGameEditor.target
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog: Total time in Parallel executor: 2.27 seconds
+[2020.10.28-17.31.53:836][ 25]CompilerResultsLog: Total execution time: 14.83 seconds
+[2020.10.28-17.31.53:836][ 25]LogMainFrame: MainFrame: Module compiling took 15.148 seconds
+[2020.10.28-17.31.53:879][ 25]LogClass: Could not find existing class WinZone in package /Script/MonkeyBallGame for HotReload, assuming new class
+[2020.10.28-17.31.53:890][ 25]LogContentBrowser: Native class hierarchy updated for 'MonkeyBallGame' in 0.0006 seconds. Added 6 classes and 2 folders.
+[2020.10.28-17.31.53:896][ 25]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.10.28-17.31.54:049][ 25]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 3433 classes and 823 folders.
+[2020.10.28-17.31.54:049][ 25]Display: HotReload took 15.4s.
+[2020.10.28-17.31.54:064][ 25]Warning: HotReload operation took 15.4s.
+[2020.10.28-17.31.54:530][ 25]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.10.28-17.31.54:963][ 26]LogHotReload: New module detected: UE4Editor-MonkeyBallGame-2017.dll
+[2020.10.28-17.31.54:987][ 27]LogHotReload: Starting Hot-Reload from IDE
+[2020.10.28-17.31.55:055][ 27]LogContentBrowser: Native class hierarchy updated for 'MonkeyBallGame' in 0.0005 seconds. Added 6 classes and 2 folders.
+[2020.10.28-17.31.55:062][ 27]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.28-17.31.55:085][ 27]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 3433 classes and 823 folders.
+[2020.10.28-17.31.55:095][ 27]Display: HotReload took  0.1s.
+[2020.10.28-17.33.23:055][286]Candidate modules for hot reload:
+[2020.10.28-17.33.23:056][286]  MonkeyBallGame
+[2020.10.28-17.33.23:056][286]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBallGame,8994 MonkeyBallGameEditor Win64 Development -Project="C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject" "C:/Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/MonkeyBallGame.uproject"  -IgnoreJunk]
+[2020.10.28-17.33.23:061][286]Warning: Starting HotReload took  0.3s.
+[2020.10.28-17.33.43:511][147]CompilerResultsLog: New page: Compilation - Oct 28, 2020, 7:33:43 AM
+[2020.10.28-17.33.43:511][147]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball).
+[2020.10.28-17.33.43:512][147]CompilerResultsLog: Parsing headers for MonkeyBallGameEditor
+[2020.10.28-17.33.43:512][147]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\MonkeyBallGame.uproject" "C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\MonkeyBallGameEditor\Development\MonkeyBallGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Brayden\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.28-17.33.43:512][147]CompilerResultsLog: Reflection code generated for MonkeyBallGameEditor in 8.387205 seconds
+[2020.10.28-17.33.43:512][147]CompilerResultsLog: Building MonkeyBallGameEditor...
+[2020.10.28-17.33.43:512][147]CompilerResultsLog: Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.28-17.33.43:512][147]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.10.28-17.33.43:512][147]CompilerResultsLog:   [1/6] MonkeyBallGame.init.gen.cpp
+[2020.10.28-17.33.43:512][147]CompilerResultsLog:   [2/6] WinZone.gen.cpp
+[2020.10.28-17.33.43:512][147]CompilerResultsLog:   [3/6] WinZone.cpp
+[2020.10.28-17.33.43:512][147]CompilerResultsLog:   [4/6] UE4Editor-MonkeyBallGame-8994.lib
+[2020.10.28-17.33.43:512][147]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-8994.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-8994.exp
+[2020.10.28-17.33.43:512][147]CompilerResultsLog:   [5/6] UE4Editor-MonkeyBallGame-8994.dll
+[2020.10.28-17.33.43:512][147]CompilerResultsLog:      Creating library C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-8994.suppressed.lib and object C:\Users\Brayden\Documents\MonkeyBall\Monekey_Ball\MonkeyBallGame\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBallGame\UE4Editor-MonkeyBallGame-8994.suppressed.exp
+[2020.10.28-17.33.43:512][147]CompilerResultsLog:   [6/6] MonkeyBallGameEditor.target
+[2020.10.28-17.33.43:512][147]CompilerResultsLog: Total time in Parallel executor: 7.87 seconds
+[2020.10.28-17.33.43:512][147]CompilerResultsLog: Total execution time: 20.06 seconds
+[2020.10.28-17.33.43:512][147]LogMainFrame: MainFrame: Module compiling took 20.464 seconds
+[2020.10.28-17.33.43:564][147]LogClass: Could not find existing class WinZone in package /Script/MonkeyBallGame for HotReload, assuming new class
+[2020.10.28-17.33.43:565][147]LogClass: Function OnOverlapBegin is new.
+[2020.10.28-17.33.43:565][147]LogClass: Function OpenLevel is new.
+[2020.10.28-17.33.43:582][147]LogHotReload: Re-instancing WinZone after hot-reload.
+[2020.10.28-17.33.43:621][147]LogContentBrowser: Native class hierarchy updated for 'MonkeyBallGame' in 0.0005 seconds. Added 6 classes and 2 folders.
+[2020.10.28-17.33.43:629][147]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.10.28-17.33.43:826][147]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 3433 classes and 823 folders.
+[2020.10.28-17.33.43:827][147]Display: HotReload took 21.1s.
+[2020.10.28-17.33.50:979][632]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.10.28-17.33.56:884][632]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.28-17.34.06:792][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BpWinZone.BpWinZone
+[2020.10.28-17.34.08:088][157]BlueprintLog: New page: Compile BpWinZone
+[2020.10.28-17.34.08:316][157]LogUObjectHash: Compacting FUObjectHashTables data took   9.25ms
+[2020.10.28-17.34.08:789][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BpWinZone" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/BpWinZone.uasset" SILENT=true
+[2020.10.28-17.34.08:820][188]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/BpWinZoneB9C342CC4254784F217EF6B81DBECE96.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/BpWinZone.uasset'
+[2020.10.28-17.34.08:842][188]AssetCheck: New page: Asset Save: BpWinZone
+[2020.10.28-17.34.08:842][188]LogContentValidation: Display: Validating Blueprint /Game/BpWinZone.BpWinZone
+[2020.10.28-17.34.35:214][603]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2020.10.28-17.34.35:254][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.34.35:302][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.28-17.34.35:356][603]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/MyGameE220E42848BA5D731336AEBBB01AF8A9.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame.umap'
+[2020.10.28-17.34.35:381][603]LogFileHelpers: Saving map 'MyGame' took 0.127
+[2020.10.28-17.34.35:381][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame_BuiltData" FILE="../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame_BuiltData.uasset" SILENT=true
+[2020.10.28-17.34.35:408][603]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Saved/MyGame_BuiltData3CA113A44F78ED0410518FAD4C75767F.tmp' to '../../../../../../Users/Brayden/Documents/MonkeyBall/Monekey_Ball/MonkeyBallGame/Content/MyGame_BuiltData.uasset'
+[2020.10.28-17.34.35:434][603]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.34.35:434][603]LogContentValidation: Display: Validating World /Game/MyGame.MyGame
+[2020.10.28-17.34.35:434][603]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyGame_BuiltData.MyGame_BuiltData
+[2020.10.28-17.34.36:339][686]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.34.36:357][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.34.36:357][686]PIE: New page: PIE session: MyGame (Oct 28, 2020, 7:34:36 AM)
+[2020.10.28-17.34.36:378][686]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2020.10.28-17.34.36:381][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003189s)
+[2020.10.28-17.34.36:390][686]LogAIModule: Creating AISystem for world MyGame
+[2020.10.28-17.34.36:390][686]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D78F73000), frame # 183686
+[2020.10.28-17.34.36:390][686]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D69F5EE80), frame # 183686
+[2020.10.28-17.34.36:391][686]LogPlayLevel: PIE: World Init took: (0.009283s)
+[2020.10.28-17.34.36:391][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.012627s)
+[2020.10.28-17.34.36:441][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.10.28-17.34.36:444][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.34.36:444][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.34.36:444][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.34.36:444][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.34.36:444][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.34.36:444][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.34.36:444][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.34.36:444][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.34.36:444][686]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.34.36:444][686]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.34.36:449][686]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.34.36:449][686]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.34.36:485][686]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.10.28-17.34.36:485][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.34.36:485][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.34.36:485][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.34.36:485][686]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.34.36:500][686]LogInit: FAudioDevice initialized.
+[2020.10.28-17.34.36:511][686]LogLoad: Game class is 'BpGameModeTest_C'
+[2020.10.28-17.34.36:512][686]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2020.10.28-12.34.36
+[2020.10.28-17.34.36:513][686]LogWorld: Bringing up level for play took: 0.001137
+[2020.10.28-17.34.36:513][686]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.10.28-17.34.36:517][686]PIE: Server logged in
+[2020.10.28-17.34.36:518][686]PIE: Play in editor total start time 0.167 seconds.
+[2020.10.28-17.34.43:082][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.34.43:082][455]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyGame
+[2020.10.28-17.34.43:082][455]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.43:082][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.34.43:095][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.34.43:102][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.34.43:147][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.34.43:166][455]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D69F5EE80), frame # 184455
+[2020.10.28-17.34.43:166][455]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D78F73000), frame # 184455
+[2020.10.28-17.34.43:171][455]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.10.28-17.34.43:209][456]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.10.28-17.34.48:806][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.10.28-17.34.48:957][  1]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.48:957][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.34.49:555][  1]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.28-17.34.49:555][  1]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.49:555][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.34.49:984][  1]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.49:984][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.34.50:043][  1]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.28-17.34.50:043][  1]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.50:043][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.34.50:108][  1]LogSlate: Window 'BpWinZone' being destroyed
+[2020.10.28-17.34.50:115][  1]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.28-17.34.50:115][  1]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.50:115][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.34.50:237][  1]LogSlate: Window 'MonkeyBallGame - Unreal Editor' being destroyed
+[2020.10.28-17.34.50:243][  1]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.28-17.34.50:828][  2]Cmd: QUIT_EDITOR
+[2020.10.28-17.34.50:828][  2]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.28-17.34.50:878][  2]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.28-17.34.52:176][  2]LogExit: Preparing to exit.
+[2020.10.28-17.34.54:189][  2]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.54:196][  2]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.54:203][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:203][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:203][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:203][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:203][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:203][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:203][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:203][  2]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.54:210][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:210][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:210][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:210][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:210][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:210][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:210][  2]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.10.28-17.34.54:210][  2]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.54:217][  2]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.54:224][  2]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.54:598][  2]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.10.28-17.34.54:807][  2]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.34.54:813][  2]LogExit: Editor shut down
+[2020.10.28-17.34.54:847][  2]LogExit: Transaction tracking system shut down
+[2020.10.28-17.34.56:946][  2]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000027C9C6F4380), frame # 185002
+[2020.10.28-17.34.56:946][  2]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027CA0A8BB00), frame # 185002
+[2020.10.28-17.34.56:995][  2]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027CA0B62000), frame # 185002
+[2020.10.28-17.34.58:771][  2]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027C91CCBE00), frame # 185002
+[2020.10.28-17.34.58:771][  2]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027CA2B8DA80), frame # 185002
+[2020.10.28-17.34.59:210][  2]LogExit: Object subsystem successfully closed.
+[2020.10.28-17.34.59:392][  2]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.28-17.34.59:888][  2]LogModuleManager: Shutting down and abandoning module MonkeyBallGame (821)
+[2020.10.28-17.34.59:889][  2]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (815)
+[2020.10.28-17.34.59:889][  2]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (805)
+[2020.10.28-17.34.59:889][  2]LogModuleManager: Shutting down and abandoning module Voice (803)
+[2020.10.28-17.34.59:889][  2]LogModuleManager: Shutting down and abandoning module BlueprintGraph (801)
+[2020.10.28-17.34.59:892][  2]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (798)
+[2020.10.28-17.34.59:892][  2]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (794)
+[2020.10.28-17.34.59:892][  2]LogModuleManager: Shutting down and abandoning module SceneOutliner (792)
+[2020.10.28-17.34.59:892][  2]LogModuleManager: Shutting down and abandoning module AddContentDialog (790)
+[2020.10.28-17.34.59:965][  2]LogModuleManager: Shutting down and abandoning module WidgetCarousel (789)
+[2020.10.28-17.34.59:965][  2]LogModuleManager: Shutting down and abandoning module EditorWidgets (786)
+[2020.10.28-17.34.59:965][  2]LogModuleManager: Shutting down and abandoning module CollectionManager (784)
+[2020.10.28-17.34.59:967][  2]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (782)
+[2020.10.28-17.34.59:970][  2]LogModuleManager: Shutting down and abandoning module StatsViewer (780)
+[2020.10.28-17.34.59:987][  2]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (778)
+[2020.10.28-17.34.59:988][  2]LogModuleManager: Shutting down and abandoning module FoliageEdit (776)
+[2020.10.28-17.34.59:991][  2]LogModuleManager: Shutting down and abandoning module LandscapeEditor (774)
+[2020.10.28-17.34.59:998][  2]LogModuleManager: Shutting down and abandoning module MeshPaintMode (772)
+[2020.10.28-17.35.00:001][  2]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (770)
+[2020.10.28-17.35.00:001][  2]LogModuleManager: Shutting down and abandoning module ActorPickerMode (768)
+[2020.10.28-17.35.00:001][  2]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (766)
+[2020.10.28-17.35.00:006][  2]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (764)
+[2020.10.28-17.35.00:012][  2]LogModuleManager: Shutting down and abandoning module AutomationWorker (762)
+[2020.10.28-17.35.00:024][  2]LogModuleManager: Shutting down and abandoning module SteamVREditor (760)
+[2020.10.28-17.35.00:024][  2]LogModuleManager: Shutting down and abandoning module OculusMR (758)
+[2020.10.28-17.35.00:024][  2]LogModuleManager: Shutting down and abandoning module GooglePADEditor (756)
+[2020.10.28-17.35.00:028][  2]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (754)
+[2020.10.28-17.35.00:029][  2]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (752)
+[2020.10.28-17.35.00:052][  2]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (750)
+[2020.10.28-17.35.00:053][  2]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (748)
+[2020.10.28-17.35.00:068][  2]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (746)
+[2020.10.28-17.35.00:070][  2]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (744)
+[2020.10.28-17.35.00:070][  2]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (742)
+[2020.10.28-17.35.00:070][  2]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (740)
+[2020.10.28-17.35.00:070][  2]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (738)
+[2020.10.28-17.35.00:070][  2]LogModuleManager: Shutting down and abandoning module WebMMedia (736)
+[2020.10.28-17.35.00:074][  2]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (734)
+[2020.10.28-17.35.00:078][  2]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (732)
+[2020.10.28-17.35.00:089][  2]LogModuleManager: Shutting down and abandoning module SequenceRecorder (731)
+[2020.10.28-17.35.00:091][  2]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (728)
+[2020.10.28-17.35.00:092][  2]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (726)
+[2020.10.28-17.35.00:092][  2]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (724)
+[2020.10.28-17.35.00:092][  2]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (722)
+[2020.10.28-17.35.00:092][  2]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (720)
+[2020.10.28-17.35.00:092][  2]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (718)
+[2020.10.28-17.35.00:092][  2]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (716)
+[2020.10.28-17.35.00:093][  2]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (714)
+[2020.10.28-17.35.00:095][  2]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (712)
+[2020.10.28-17.35.00:096][  2]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (710)
+[2020.10.28-17.35.00:096][  2]LogModuleManager: Shutting down and abandoning module PlanarCut (708)
+[2020.10.28-17.35.00:097][  2]LogModuleManager: Shutting down and abandoning module CharacterAI (706)
+[2020.10.28-17.35.00:097][  2]LogModuleManager: Shutting down and abandoning module TextureAlignMode (704)
+[2020.10.28-17.35.00:097][  2]LogModuleManager: Shutting down and abandoning module BspMode (702)
+[2020.10.28-17.35.00:097][  2]LogModuleManager: Shutting down and abandoning module PlacementMode (701)
+[2020.10.28-17.35.00:101][  2]LogModuleManager: Shutting down and abandoning module GeometryMode (698)
+[2020.10.28-17.35.00:101][  2]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (696)
+[2020.10.28-17.35.00:108][  2]LogModuleManager: Shutting down and abandoning module SmartSnapping (694)
+[2020.10.28-17.35.00:109][  2]LogModuleManager: Shutting down and abandoning module SessionServices (692)
+[2020.10.28-17.35.00:109][  2]LogModuleManager: Shutting down and abandoning module MeshPaint (690)
+[2020.10.28-17.35.00:114][  2]LogModuleManager: Shutting down and abandoning module ViewportSnapping (688)
+[2020.10.28-17.35.00:114][  2]LogModuleManager: Shutting down and abandoning module ViewportInteraction (686)
+[2020.10.28-17.35.00:114][  2]LogModuleManager: Shutting down and abandoning module ClothPainter (684)
+[2020.10.28-17.35.00:127][  2]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (683)
+[2020.10.28-17.35.00:131][  2]LogModuleManager: Shutting down and abandoning module LogVisualizer (680)
+[2020.10.28-17.35.00:139][  2]LogModuleManager: Shutting down and abandoning module IntroTutorials (678)
+[2020.10.28-17.35.00:144][  2]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (677)
+[2020.10.28-17.35.00:144][  2]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (674)
+[2020.10.28-17.35.00:144][  2]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (672)
+[2020.10.28-17.35.00:146][  2]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (670)
+[2020.10.28-17.35.00:146][  2]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (669)
+[2020.10.28-17.35.00:522][  2]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (666)
+[2020.10.28-17.35.00:522][  2]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (664)
+[2020.10.28-17.35.00:522][  2]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (662)
+[2020.10.28-17.35.00:522][  2]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (660)
+[2020.10.28-17.35.00:522][  2]LogModuleManager: Shutting down and abandoning module TraceInsights (658)
+[2020.10.28-17.35.00:544][  2]LogModuleManager: Shutting down and abandoning module TraceServices (657)
+[2020.10.28-17.35.00:550][  2]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (654)
+[2020.10.28-17.35.00:550][  2]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (652)
+[2020.10.28-17.35.00:553][  2]LogModuleManager: Shutting down and abandoning module InputBindingEditor (650)
+[2020.10.28-17.35.00:560][  2]LogModuleManager: Shutting down and abandoning module MergeActors (648)
+[2020.10.28-17.35.00:565][  2]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (646)
+[2020.10.28-17.35.00:573][  2]LogModuleManager: Shutting down and abandoning module LocalizationService (645)
+[2020.10.28-17.35.00:574][  2]LogModuleManager: Shutting down and abandoning module HardwareTargeting (642)
+[2020.10.28-17.35.00:575][  2]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (640)
+[2020.10.28-17.35.00:576][  2]LogModuleManager: Shutting down and abandoning module UndoHistory (638)
+[2020.10.28-17.35.00:577][  2]LogModuleManager: Shutting down and abandoning module XmlParser (636)
+[2020.10.28-17.35.00:578][  2]LogModuleManager: Shutting down and abandoning module Blutility (634)
+[2020.10.28-17.35.00:578][  2]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (632)
+[2020.10.28-17.35.00:582][  2]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (631)
+[2020.10.28-17.35.00:583][  2]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (628)
+[2020.10.28-17.35.00:583][  2]LogModuleManager: Shutting down and abandoning module SettingsEditor (626)
+[2020.10.28-17.35.00:585][  2]LogModuleManager: Shutting down and abandoning module ProjectLauncher (624)
+[2020.10.28-17.35.00:587][  2]LogModuleManager: Shutting down and abandoning module SessionFrontend (622)
+[2020.10.28-17.35.00:592][  2]LogModuleManager: Shutting down and abandoning module ProfilerClient (620)
+[2020.10.28-17.35.00:593][  2]LogModuleManager: Shutting down and abandoning module DeviceManager (618)
+[2020.10.28-17.35.00:600][  2]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (617)
+[2020.10.28-17.35.00:634][  2]LogModuleManager: Shutting down and abandoning module AutomationController (614)
+[2020.10.28-17.35.00:641][  2]LogModuleManager: Shutting down and abandoning module AutomationWindow (612)
+[2020.10.28-17.35.00:644][  2]LogModuleManager: Shutting down and abandoning module Layers (610)
+[2020.10.28-17.35.00:659][  2]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (608)
+[2020.10.28-17.35.00:659][  2]LogModuleManager: Shutting down and abandoning module DetailCustomizations (606)
+[2020.10.28-17.35.00:660][  2]LogModuleManager: Shutting down and abandoning module PackagesDialog (604)
+[2020.10.28-17.35.00:661][  2]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (602)
+[2020.10.28-17.35.00:664][  2]LogModuleManager: Shutting down and abandoning module Persona (600)
+[2020.10.28-17.35.00:666][  2]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (599)
+[2020.10.28-17.35.00:666][  2]LogModuleManager: Shutting down and abandoning module AnimGraph (597)
+[2020.10.28-17.35.00:667][  2]LogModuleManager: Shutting down and abandoning module Kismet (594)
+[2020.10.28-17.35.00:716][  2]LogModuleManager: Shutting down and abandoning module KismetWidgets (593)
+[2020.10.28-17.35.00:717][  2]LogModuleManager: Shutting down and abandoning module GraphEditor (590)
+[2020.10.28-17.35.00:717][  2]LogModuleManager: Shutting down and abandoning module StructViewer (588)
+[2020.10.28-17.35.00:717][  2]LogModuleManager: Shutting down and abandoning module ClassViewer (586)
+[2020.10.28-17.35.00:719][  2]LogModuleManager: Shutting down and abandoning module Toolbox (584)
+[2020.10.28-17.35.00:722][  2]LogModuleManager: Shutting down and abandoning module ModuleUI (582)
+[2020.10.28-17.35.00:722][  2]LogModuleManager: Shutting down and abandoning module OutputLog (580)
+[2020.10.28-17.35.00:730][  2]LogModuleManager: Shutting down and abandoning module GammaUI (578)
+[2020.10.28-17.35.00:731][  2]LogModuleManager: Shutting down and abandoning module Documentation (576)
+[2020.10.28-17.35.00:732][  2]LogModuleManager: Shutting down and abandoning module LiveCoding (574)
+[2020.10.28-17.35.00:736][  2]LogModuleManager: Shutting down and abandoning module LevelSequence (572)
+[2020.10.28-17.35.00:736][  2]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (570)
+[2020.10.28-17.35.00:737][  2]LogModuleManager: Shutting down and abandoning module MovieScene (568)
+[2020.10.28-17.35.00:737][  2]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (566)
+[2020.10.28-17.35.00:737][  2]LogModuleManager: Shutting down and abandoning module LauncherPlatform (564)
+[2020.10.28-17.35.00:737][  2]LogModuleManager: Shutting down and abandoning module AnalyticsET (562)
+[2020.10.28-17.35.00:737][  2]LogModuleManager: Shutting down and abandoning module PortalServices (560)
+[2020.10.28-17.35.00:737][  2]LogModuleManager: Shutting down and abandoning module PortalRpc (558)
+[2020.10.28-17.35.00:737][  2]LogModuleManager: Shutting down and abandoning module MessagingRpc (556)
+[2020.10.28-17.35.00:737][  2]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (554)
+[2020.10.28-17.35.00:737][  2]LogModuleManager: Shutting down and abandoning module AudioMixerCore (553)
+[2020.10.28-17.35.00:737][  2]LogModuleManager: Shutting down and abandoning module AIModule (550)
+[2020.10.28-17.35.00:739][  2]LogModuleManager: Shutting down and abandoning module GameplayDebugger (549)
+[2020.10.28-17.35.00:739][  2]LogModuleManager: Shutting down and abandoning module AITestSuite (547)
+[2020.10.28-17.35.00:740][  2]LogModuleManager: Shutting down and abandoning module NavigationSystem (545)
+[2020.10.28-17.35.00:740][  2]LogModuleManager: Shutting down and abandoning module ProfilerService (542)
+[2020.10.28-17.35.00:825][  2]LogModuleManager: Shutting down and abandoning module TaskGraph (540)
+[2020.10.28-17.35.00:830][  2]LogModuleManager: Shutting down and abandoning module ScreenshotTools (538)
+[2020.10.28-17.35.00:830][  2]LogModuleManager: Shutting down and abandoning module SynthesisEditor (536)
+[2020.10.28-17.35.00:830][  2]LogModuleManager: Shutting down and abandoning module Synthesis (534)
+[2020.10.28-17.35.00:834][  2]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (532)
+[2020.10.28-17.35.00:835][  2]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (530)
+[2020.10.28-17.35.00:835][  2]LogModuleManager: Shutting down and abandoning module OculusEditor (528)
+[2020.10.28-17.35.00:836][  2]LogModuleManager: Shutting down and abandoning module OculusInput (526)
+[2020.10.28-17.35.00:837][  2]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (524)
+[2020.10.28-17.35.00:837][  2]LogModuleManager: Shutting down and abandoning module GooglePAD (522)
+[2020.10.28-17.35.00:837][  2]LogModuleManager: Shutting down and abandoning module EditableMesh (520)
+[2020.10.28-17.35.00:838][  2]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (518)
+[2020.10.28-17.35.00:838][  2]LogModuleManager: Shutting down and abandoning module CableComponent (516)
+[2020.10.28-17.35.00:838][  2]LogModuleManager: Shutting down and abandoning module AudioCapture (514)
+[2020.10.28-17.35.00:838][  2]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (513)
+[2020.10.28-17.35.00:841][  2]LogModuleManager: Shutting down and abandoning module AssetTags (510)
+[2020.10.28-17.35.00:841][  2]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (508)
+[2020.10.28-17.35.00:841][  2]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (506)
+[2020.10.28-17.35.00:841][  2]LogModuleManager: Shutting down and abandoning module AppleImageUtils (504)
+[2020.10.28-17.35.00:841][  2]LogModuleManager: Shutting down and abandoning module AndroidPermission (502)
+[2020.10.28-17.35.00:841][  2]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (500)
+[2020.10.28-17.35.00:842][  2]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (498)
+[2020.10.28-17.35.00:847][  2]LogModuleManager: Shutting down and abandoning module TemplateSequence (496)
+[2020.10.28-17.35.00:847][  2]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (494)
+[2020.10.28-17.35.00:847][  2]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (492)
+[2020.10.28-17.35.00:847][  2]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (490)
+[2020.10.28-17.35.00:847][  2]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (488)
+[2020.10.28-17.35.00:848][  2]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (487)
+[2020.10.28-17.35.00:848][  2]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (484)
+[2020.10.28-17.35.00:848][  2]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (482)
+[2020.10.28-17.35.00:849][  2]LogModuleManager: Shutting down and abandoning module MediaCompositing (480)
+[2020.10.28-17.35.00:849][  2]LogModuleManager: Shutting down and abandoning module ImgMedia (478)
+[2020.10.28-17.35.00:849][  2]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2020.10.28-17.35.00:849][  2]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (474)
+[2020.10.28-17.35.00:849][  2]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2020.10.28-17.35.00:850][  2]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2020.10.28-17.35.00:850][  2]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2020.10.28-17.35.00:850][  2]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2020.10.28-17.35.00:858][  2]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (464)
+[2020.10.28-17.35.00:861][  2]LogModuleManager: Shutting down and abandoning module MeshConversion (462)
+[2020.10.28-17.35.00:865][  2]LogModuleManager: Shutting down and abandoning module DynamicMesh (460)
+[2020.10.28-17.35.00:868][  2]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (458)
+[2020.10.28-17.35.00:874][  2]LogModuleManager: Shutting down and abandoning module GeometricObjects (456)
+[2020.10.28-17.35.00:875][  2]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (454)
+[2020.10.28-17.35.00:875][  2]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (453)
+[2020.10.28-17.35.00:875][  2]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (450)
+[2020.10.28-17.35.00:879][  2]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (448)
+[2020.10.28-17.35.00:879][  2]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (446)
+[2020.10.28-17.35.00:879][  2]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (444)
+[2020.10.28-17.35.00:879][  2]LogModuleManager: Shutting down and abandoning module ChaosNiagara (442)
+[2020.10.28-17.35.00:879][  2]LogModuleManager: Shutting down and abandoning module FractureEditor (440)
+[2020.10.28-17.35.00:884][  2]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (438)
+[2020.10.28-17.35.00:884][  2]LogModuleManager: Shutting down and abandoning module ChaosCloth (436)
+[2020.10.28-17.35.00:884][  2]LogModuleManager: Shutting down and abandoning module BackChannel (434)
+[2020.10.28-17.35.00:885][  2]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (432)
+[2020.10.28-17.35.00:885][  2]LogModuleManager: Shutting down and abandoning module AutomationUtils (430)
+[2020.10.28-17.35.00:885][  2]LogModuleManager: Shutting down and abandoning module AlembicImporter (428)
+[2020.10.28-17.35.00:885][  2]LogModuleManager: Shutting down and abandoning module AlembicLibrary (427)
+[2020.10.28-17.35.00:885][  2]LogModuleManager: Shutting down and abandoning module GeometryCache (426)
+[2020.10.28-17.35.00:885][  2]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (425)
+[2020.10.28-17.35.00:885][  2]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (420)
+[2020.10.28-17.35.00:888][  2]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2020.10.28-17.35.00:891][  2]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2020.10.28-17.35.00:892][  2]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2020.10.28-17.35.00:902][  2]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2020.10.28-17.35.00:904][  2]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2020.10.28-17.35.00:906][  2]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (408)
+[2020.10.28-17.35.00:906][  2]LogModuleManager: Shutting down and abandoning module CurveEditorTools (406)
+[2020.10.28-17.35.00:918][  2]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (404)
+[2020.10.28-17.35.00:919][  2]LogModuleManager: Shutting down and abandoning module CryptoKeys (402)
+[2020.10.28-17.35.00:919][  2]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (400)
+[2020.10.28-17.35.00:919][  2]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (398)
+[2020.10.28-17.35.00:919][  2]LogModuleManager: Shutting down and abandoning module UObjectPlugin (396)
+[2020.10.28-17.35.00:919][  2]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (394)
+[2020.10.28-17.35.00:921][  2]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (392)
+[2020.10.28-17.35.00:921][  2]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (390)
+[2020.10.28-17.35.00:924][  2]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (388)
+[2020.10.28-17.35.00:935][  2]LogModuleManager: Shutting down and abandoning module GitSourceControl (386)
+[2020.10.28-17.35.00:942][  2]LogModuleManager: Shutting down and abandoning module SourceControl (385)
+[2020.10.28-17.35.00:945][  2]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (382)
+[2020.10.28-17.35.00:945][  2]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (380)
+[2020.10.28-17.35.00:945][  2]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (378)
+[2020.10.28-17.35.00:949][  2]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (376)
+[2020.10.28-17.35.00:949][  2]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (374)
+[2020.10.28-17.35.00:950][  2]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (372)
+[2020.10.28-17.35.00:950][  2]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (370)
+[2020.10.28-17.35.00:950][  2]LogModuleManager: Shutting down and abandoning module Paper2DEditor (368)
+[2020.10.28-17.35.00:954][  2]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.10.28-17.35.00:954][  2]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.10.28-17.35.00:954][  2]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.10.28-17.35.00:954][  2]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.10.28-17.35.00:954][  2]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.10.28-17.35.00:954][  2]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.10.28-17.35.00:954][  2]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.10.28-17.35.01:055][  2]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.10.28-17.35.01:158][  2]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.10.28-17.35.01:158][  2]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.10.28-17.35.01:158][  2]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.10.28-17.35.01:158][  2]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.10.28-17.35.01:158][  2]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.10.28-17.35.01:160][  2]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.10.28-17.35.01:160][  2]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.10.28-17.35.01:165][  2]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.10.28-17.35.01:165][  2]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.10.28-17.35.01:185][  2]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.10.28-17.35.01:191][  2]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.10.28-17.35.01:206][  2]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.10.28-17.35.01:221][  2]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.10.28-17.35.01:223][  2]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.10.28-17.35.01:223][  2]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.10.28-17.35.01:223][  2]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.10.28-17.35.01:223][  2]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.10.28-17.35.01:234][  2]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.10.28-17.35.01:234][  2]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.10.28-17.35.01:241][  2]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.10.28-17.35.01:241][  2]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.10.28-17.35.01:244][  2]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.10.28-17.35.01:245][  2]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.10.28-17.35.01:245][  2]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.10.28-17.35.01:245][  2]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.10.28-17.35.01:253][  2]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.10.28-17.35.01:268][  2]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.10.28-17.35.01:270][  2]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.10.28-17.35.01:272][  2]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.10.28-17.35.01:272][  2]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.10.28-17.35.01:273][  2]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.10.28-17.35.01:274][  2]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.10.28-17.35.01:276][  2]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.10.28-17.35.01:276][  2]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.10.28-17.35.01:279][  2]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.10.28-17.35.01:280][  2]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.10.28-17.35.01:291][  2]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.10.28-17.35.01:292][  2]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.10.28-17.35.01:292][  2]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.10.28-17.35.01:293][  2]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.10.28-17.35.01:293][  2]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.10.28-17.35.01:302][  2]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.10.28-17.35.01:302][  2]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.10.28-17.35.01:302][  2]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.10.28-17.35.01:302][  2]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.10.28-17.35.01:308][  2]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.10.28-17.35.01:309][  2]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.10.28-17.35.01:309][  2]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.10.28-17.35.01:327][  2]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.10.28-17.35.01:328][  2]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.10.28-17.35.01:338][  2]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.10.28-17.35.01:345][  2]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.10.28-17.35.01:381][  2]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.10.28-17.35.01:381][  2]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.10.28-17.35.01:399][  2]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.10.28-17.35.01:409][  2]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.10.28-17.35.01:421][  2]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.10.28-17.35.01:456][  2]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.10.28-17.35.01:457][  2]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.10.28-17.35.01:457][  2]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.10.28-17.35.01:457][  2]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.10.28-17.35.01:457][  2]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.10.28-17.35.01:457][  2]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.10.28-17.35.01:467][  2]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.10.28-17.35.01:467][  2]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.10.28-17.35.01:468][  2]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.10.28-17.35.01:468][  2]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.10.28-17.35.01:468][  2]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.10.28-17.35.01:535][  2]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.10.28-17.35.01:580][  2]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.10.28-17.35.01:637][  2]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.10.28-17.35.01:664][  2]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.10.28-17.35.01:664][  2]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.10.28-17.35.01:664][  2]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.10.28-17.35.01:677][  2]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.10.28-17.35.01:685][  2]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.10.28-17.35.01:686][  2]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.10.28-17.35.01:686][  2]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.10.28-17.35.01:690][  2]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.10.28-17.35.01:711][  2]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.10.28-17.35.01:715][  2]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.10.28-17.35.01:721][  2]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.10.28-17.35.01:721][  2]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.10.28-17.35.01:722][  2]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.10.28-17.35.01:725][  2]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.10.28-17.35.01:730][  2]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.10.28-17.35.01:735][  2]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.10.28-17.35.01:737][  2]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.10.28-17.35.01:740][  2]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.10.28-17.35.01:740][  2]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.10.28-17.35.01:744][  2]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.10.28-17.35.01:757][  2]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.10.28-17.35.01:758][  2]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.10.28-17.35.01:761][  2]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.10.28-17.35.01:769][  2]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.10.28-17.35.01:769][  2]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.10.28-17.35.01:769][  2]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.10.28-17.35.01:771][  2]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.10.28-17.35.01:773][  2]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.10.28-17.35.01:778][  2]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.10.28-17.35.01:778][  2]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.10.28-17.35.01:778][  2]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.10.28-17.35.01:779][  2]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.10.28-17.35.01:779][  2]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.10.28-17.35.01:780][  2]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.10.28-17.35.01:879][  2]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.10.28-17.35.01:898][  2]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.10.28-17.35.01:899][  2]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.10.28-17.35.01:900][  2]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.10.28-17.35.01:900][  2]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.10.28-17.35.01:901][  2]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.10.28-17.35.01:902][  2]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.10.28-17.35.01:905][  2]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.10.28-17.35.01:905][  2]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.10.28-17.35.01:905][  2]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.10.28-17.35.01:919][  2]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.10.28-17.35.01:962][  2]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.10.28-17.35.01:962][  2]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.10.28-17.35.01:962][  2]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.10.28-17.35.01:962][  2]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.10.28-17.35.01:965][  2]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.10.28-17.35.01:965][  2]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.10.28-17.35.01:973][  2]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.10.28-17.35.01:973][  2]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.10.28-17.35.01:974][  2]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.10.28-17.35.01:974][  2]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.10.28-17.35.01:974][  2]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.10.28-17.35.01:978][  2]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.10.28-17.35.01:979][  2]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.10.28-17.35.01:979][  2]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.10.28-17.35.01:980][  2]LogHMD: Freeing OpenVRDLLHandle.
+[2020.10.28-17.35.01:980][  2]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.10.28-17.35.01:981][  2]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.10.28-17.35.01:981][  2]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.10.28-17.35.01:981][  2]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.10.28-17.35.01:981][  2]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.10.28-17.35.01:983][  2]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.10.28-17.35.01:997][  2]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.10.28-17.35.02:033][  2]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.10.28-17.35.02:033][  2]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.28-17.35.02:033][  2]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB661792F-4A87-844C-FB48-A7AC6D2BC97E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=c5565ef046958bd0ec969cac7c51d6f6%7C781aeef3e49045af94abbb4012641896%7C88c7ea3a-c77a-4f26-834a-b97c41ee637a&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.10.28-17.35.02:068][  2]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.10.28-17.35.02:095][  2]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.10.28-17.35.02:099][  2]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.10.28-17.35.02:102][  2]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.10.28-17.35.02:102][  2]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.10.28-17.35.02:102][  2]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.10.28-17.35.02:102][  2]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.10.28-17.35.02:102][  2]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.10.28-17.35.02:102][  2]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.10.28-17.35.02:102][  2]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.10.28-17.35.02:106][  2]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.10.28-17.35.02:107][  2]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.10.28-17.35.02:107][  2]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.10.28-17.35.02:107][  2]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.10.28-17.35.02:112][  2]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.10.28-17.35.02:115][  2]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.10.28-17.35.02:139][  2]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.10.28-17.35.02:140][  2]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.10.28-17.35.02:140][  2]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.10.28-17.35.02:143][  2]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.10.28-17.35.02:160][  2]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.10.28-17.35.02:161][  2]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.10.28-17.35.02:161][  2]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.10.28-17.35.02:161][  2]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.10.28-17.35.02:162][  2]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.10.28-17.35.02:162][  2]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.10.28-17.35.02:162][  2]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.10.28-17.35.02:163][  2]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.10.28-17.35.02:164][  2]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.10.28-17.35.02:166][  2]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.10.28-17.35.02:170][  2]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.10.28-17.35.02:178][  2]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.10.28-17.35.02:179][  2]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.10.28-17.35.02:207][  2]LogD3D11RHI: Shutdown
+[2020.10.28-17.35.02:208][  2]LogD3D11RHI: CleanupD3DDevice
+[2020.10.28-17.35.02:327][  2]LogExit: Exiting.
+[2020.10.28-17.35.02:369][  2]Log file closed, 10/28/20 12:35:02
