@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MonkeyBallGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5BE05D28-39C3-4F87-A431-B1524CA38FCD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MonkeyBallGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MonkeyBallGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C1E2451A-3803-4E67-BE76-BB00A6F108CB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MonkeyBallGame">
+      <UniqueIdentifier>{61123221-6AE2-449F-A085-0996DBDFE44D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MonkeyBallGame\MonkeyBallGame.Build.cs">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MonkeyBallGame\MonkeyBallGame.cpp">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonkeyBallGame\MonkeyBallGame.h">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonkeyBallGame\MonkeyBallGameGameModeBase.cpp">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonkeyBallGame\MonkeyBallGameGameModeBase.h">
+      <Filter>Source\MonkeyBallGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

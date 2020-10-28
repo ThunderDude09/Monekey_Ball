@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MonkeyBallGame",
+			"Path": "C:\\Users\\Brayden\\Documents\\MonkeyBall\\Monekey_Ball\\MonkeyBallGame\\Source\\MonkeyBallGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MonkeyBallGameEditor",
+			"Path": "C:\\Users\\Brayden\\Documents\\MonkeyBall\\Monekey_Ball\\MonkeyBallGame\\Source\\MonkeyBallGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
